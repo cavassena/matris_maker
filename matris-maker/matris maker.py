@@ -38,7 +38,7 @@ def emrehoca():
     t.penup()
     t.goto(-155,130)
     t.pendown()
-    t.color('white')
+    t.color('blue')
     t.write("kenan",font=("Verdana",25,"bold"))
 
     t.penup()
